@@ -1,0 +1,15 @@
+* {
+  -webkit-box-sizing: border-box; /* stylelint-disable-line property-no-vendor-prefix */
+  -moz-box-sizing: border-box; /* stylelint-disable-line property-no-vendor-prefix */
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 14px;
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  margin-bottom: 60px;
+}
