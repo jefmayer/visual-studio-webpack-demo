@@ -7,4 +7,9 @@
     <RootNamespace>Webpack_Demo_Integration</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\css\styles.js" />
+    <Content Remove="wwwroot\css\styles.js.map" />
+  </ItemGroup>
+
 </Project>
